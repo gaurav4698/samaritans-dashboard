@@ -84,6 +84,7 @@ To allow easy testing of the two resolution modes, you can use the files at http
 
 ## Credits
 BC2t47mCn7EjGiYQtwqYhgtt
+wiki/test/WikiWord
 
 This code is heavily inspired by [3R My Branch Today](https://github.com/ThreeRingsCIC/3r-shifts-events-news).
 g2e8x7zvh2PVX0SGux2QfAtt
